@@ -2,7 +2,7 @@
 
 ## 🧠 À propos de moi
 
-Je m'appelle **Stimqy**, j’ai **18 ans** et je suis passionné par le **développement informatique** depuis l’âge de **12 ans**.  
+Je m'appelle **Tenz**, j’ai **19 ans** et je suis passionné par le **développement informatique** depuis l’âge de **12 ans**.  
 Je m’intéresse également à l’**électronique**, ce qui m’a permis de mieux comprendre le lien entre le matériel et le code.
 
 Il y a **2 ans**, j’ai commencé à apprendre le **Lua** et à explorer l’univers du développement sur **FiveM**.  
@@ -33,7 +33,7 @@ Je m'efforce de fournir un code **propre, clair et fiable**, en m’adaptant aux
 ## 📫 Contact
 
 Disponible pour du **freelance**, des aides ponctuelles ou des projets complets.  
-**Discord** : `stimqy_dev`
+**Discord** : `tenz_project`
 
 ---
 
