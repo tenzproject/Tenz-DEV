@@ -5,7 +5,7 @@
 Je m'appelle **Tenz**, j’ai **19 ans** et je suis passionné par le **développement informatique** depuis l’âge de **12 ans**.  
 Je m’intéresse également à l’**électronique**, ce qui m’a permis de mieux comprendre le lien entre le matériel et le code.
 
-Il y a **2 ans**, j’ai commencé à apprendre le **Lua** et à explorer l’univers du développement sur **FiveM**.  
+Il y a **4 ans**, j’ai commencé à apprendre le **Lua** et à explorer l’univers du développement sur **FiveM**.  
 Aujourd’hui, je possède un **niveau correct en scripting** et je suis capable de créer des scripts fonctionnels, optimisés et adaptés aux besoins des serveurs.
 
 ---
