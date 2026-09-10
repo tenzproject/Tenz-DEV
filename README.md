@@ -1,4 +1,4 @@
-# 👋 Stimqy
+# 👋 TENZ
 
 ## 🧠 À propos de moi
 
